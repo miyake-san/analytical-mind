@@ -1,0 +1,13 @@
+# Per-project ignores — keep data and local artifacts out of git.
+
+# Data: track raw inputs deliberately, never commit large/processed data by default
+data/processed/*
+!data/processed/.gitkeep
+data/raw/*
+!data/raw/.gitkeep
+
+# Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Environments
+.venv/

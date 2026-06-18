@@ -1,0 +1,8 @@
+# Add your project's dependencies here, pinning versions when you can.
+# Common starting points (uncomment what you need):
+
+# pandas
+# numpy
+# matplotlib
+# scikit-learn
+# jupyter
