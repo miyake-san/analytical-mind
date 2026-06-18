@@ -1,4 +1,4 @@
-# 📚 References — Awesome Repositories & Learning Materials
+# References — Awesome Repositories & Learning Materials
 
 A curated catalogue of high-quality, community-trusted GitHub repositories and
 learning resources across the modern data and AI career tracks. The goal is
@@ -9,18 +9,18 @@ Every link below points to an external, open resource. Pick a track, follow the
 roadmap, and pair your study with hands-on work using the
 [study projects scaffolding](../projects/README.md).
 
-## 🧭 Tracks
+## Tracks
 
 | Track | What you'll find | Page |
 |-------|------------------|------|
-| 📊 **Data Analytics** | BI, SQL, spreadsheets, dashboards, storytelling with data | [data-analytics.md](data-analytics.md) |
-| 🛠️ **Data Engineering** | Pipelines, orchestration, warehousing, streaming, big data | [data-engineering.md](data-engineering.md) |
-| 🔬 **Data Science** | Statistics, EDA, modelling, notebooks, experimentation | [data-science.md](data-science.md) |
-| 🤖 **Machine Learning Engineering** | MLOps, deployment, serving, monitoring, ML systems design | [machine-learning-engineering.md](machine-learning-engineering.md) |
-| 🧠 **AI Engineering** | LLMs, generative AI, RAG, agents, prompt engineering | [ai-engineering.md](ai-engineering.md) |
-| ♾️ **Cross-cutting** | Datasets, cheat sheets, Python, software engineering foundations | [cross-cutting.md](cross-cutting.md) |
+| **Data Analytics** | BI, SQL, spreadsheets, dashboards, storytelling with data | [data-analytics.md](data-analytics.md) |
+| **Data Engineering** | Pipelines, orchestration, warehousing, streaming, big data | [data-engineering.md](data-engineering.md) |
+| **Data Science** | Statistics, EDA, modelling, notebooks, experimentation | [data-science.md](data-science.md) |
+| **Machine Learning Engineering** | MLOps, deployment, serving, monitoring, ML systems design | [machine-learning-engineering.md](machine-learning-engineering.md) |
+| **AI Engineering** | LLMs, generative AI, RAG, agents, prompt engineering | [ai-engineering.md](ai-engineering.md) |
+| **Cross-cutting** | Datasets, cheat sheets, Python, software engineering foundations | [cross-cutting.md](cross-cutting.md) |
 
-## 🗺️ How the tracks relate
+## How the tracks relate
 
 These tracks overlap heavily — they share tools, languages, and foundations.
 A rough mental model of how they build on each other:
@@ -44,7 +44,7 @@ A rough mental model of how they build on each other:
 You do **not** have to follow them in order. Most learners pick one track as a
 primary focus and borrow from the others as needed.
 
-## ✅ How to use this catalogue
+## How to use this catalogue
 
 1. **Choose a primary track** based on the role you are aiming for.
 2. **Skim the "Roadmaps" section** of that page to understand the landscape.
@@ -53,7 +53,7 @@ primary focus and borrow from the others as needed.
 5. **Revisit** the cross-cutting page for datasets and cheat sheets whenever you
    need to practice.
 
-## ➕ Adding references
+## Adding references
 
 Found another awesome repository? Contributions are welcome — see
 [CONTRIBUTING.md](../CONTRIBUTING.md) for the (very light) guidelines.

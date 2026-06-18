@@ -7,14 +7,14 @@
 - **Track:** <Data Analytics | Data Engineering | Data Science | ML Engineering | AI Engineering>
 - **Concept being studied:** <e.g. logistic regression, Airflow DAGs, RAG>
 - **Reference(s) used:** <link(s) from ../../references>
-- **Status:** 🟡 In progress | ✅ Done | 🧊 On hold
+- **Status:** In progress | Done | On hold
 
-## 🎯 Goal
+## Goal
 
 What question are you answering or what are you building? Keep it to 1–3
 sentences.
 
-## ✅ Definition of done
+## Definition of done
 
 A short checklist so you know when to stop. Keep the project small!
 
@@ -22,7 +22,7 @@ A short checklist so you know when to stop. Keep the project small!
 - [ ] ...
 - [ ] Wrote a short summary of what I learned in [reports/](reports/)
 
-## 🗂️ Structure
+## Structure
 
 ```
 .
@@ -37,7 +37,7 @@ A short checklist so you know when to stop. Keep the project small!
 └── README.md        # this file
 ```
 
-## ▶️ How to run
+## How to run
 
 ```bash
 # Create and activate a virtual environment
@@ -50,7 +50,7 @@ pip install -r requirements.txt
 # ... then run notebooks/ or scripts in src/
 ```
 
-## 📝 What I learned
+## What I learned
 
 Fill this in as you go — it is the most valuable part for your future self.
 
