@@ -1,4 +1,4 @@
-# 🚀 Study Projects — Learn in Parallel with Your Study
+# Study Projects — Learn in Parallel with Your Study
 
 Reading roadmaps and watching courses is not enough. The fastest way to learn
 data and AI skills is to **build small projects in parallel with your study** —
@@ -6,7 +6,7 @@ applying each new concept to something real while it is still fresh.
 
 This folder gives you a lightweight structure to do exactly that.
 
-## 🎯 The idea: study ⇄ build loop
+## The idea: study ⇄ build loop
 
 ```
    ┌─────────────┐      learn a concept       ┌──────────────┐
@@ -22,7 +22,7 @@ This folder gives you a lightweight structure to do exactly that.
 3. **Reflect** — note what was confusing; let that guide your next study session.
 4. **Repeat** — each loop is small, finishable, and adds to your portfolio.
 
-## 🗂️ How to organise your projects
+## How to organise your projects
 
 Create one folder per project under `projects/`, copied from the template:
 
@@ -38,7 +38,7 @@ Suggested naming: prefix with a number so projects stay ordered by when you
 started them, e.g. `01-sales-eda`, `02-etl-weather-pipeline`,
 `03-churn-model`, `04-rag-chatbot`.
 
-## ⚡ Start a new project in 3 steps
+## Start a new project in 3 steps
 
 ```bash
 # 1. Copy the template (run from the repository root)
@@ -53,19 +53,19 @@ cd projects/01-my-first-project
 > Tip: keep each project **small enough to finish in a few study sessions**.
 > A finished tiny project beats an abandoned ambitious one.
 
-## 🧭 Suggested first project per track
+## Suggested first project per track
 
 | Track | A good first project |
 |-------|----------------------|
-| 📊 Data Analytics | Explore a public dataset and build a one-page dashboard answering 3 questions. |
-| 🛠️ Data Engineering | Build a small ETL pipeline: ingest a CSV/API, clean it, load it into a local database. |
-| 🔬 Data Science | Run an end-to-end EDA + baseline model on a Kaggle dataset. |
-| 🤖 ML Engineering | Take an existing model and wrap it in an API with experiment tracking. |
-| 🧠 AI Engineering | Build a small RAG chatbot over a handful of your own documents. |
+| Data Analytics | Explore a public dataset and build a one-page dashboard answering 3 questions. |
+| Data Engineering | Build a small ETL pipeline: ingest a CSV/API, clean it, load it into a local database. |
+| Data Science | Run an end-to-end EDA + baseline model on a Kaggle dataset. |
+| ML Engineering | Take an existing model and wrap it in an API with experiment tracking. |
+| AI Engineering | Build a small RAG chatbot over a handful of your own documents. |
 
-Need data? See the [datasets section](../references/cross-cutting.md#-datasets).
+Need data? See the [datasets section](../references/cross-cutting.md#datasets).
 
-## 📐 Why this structure?
+## Why this structure?
 
 The [project template](templates/project-template) follows widely-used
 conventions (inspired by
